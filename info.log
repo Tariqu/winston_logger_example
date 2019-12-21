@@ -84,3 +84,65 @@
 {"level":"info","message":"server up and running on PORT : 3000","timestamp":"2019-12-06T01:51:39.828Z"}
 {"message":"server up and running on PORT : 3000","level":"error","timestamp":"2019-12-06T01:52:01.771Z"}
 {"message":"server up and running on PORT : 3000","level":"error","timestamp":"2019-12-06T01:52:52.378Z"}
+{"message":"server up and running on PORT : 3000","level":"error","timestamp":"2019-12-20T02:20:20.522Z"}
+{"message":{"email":"test2@gmail.com","password":"test123"},"level":"info","timestamp":"2019-12-20T02:21:32.832Z"}
+{"success":1,"message":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjEsImZpcnN0TmFtZSI6ImFiYyIsImxhc3ROYW1lIjoiYWJjIiwiZ2VuZGVyIjoibSIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwibnVtYmVyIjo3OTc4MDczNzA0fSwiaWF0IjoxNTc2ODA4NDkzLCJleHAiOjE1NzY4MTIwOTN9.Np9IsCEj3wphTvv4nXIimPGc2a3oJZeQ8Ft48m6B3Js","level":"info","timestamp":"2019-12-20T02:21:33.150Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mqwreqwe","email":"test2@gmail.com","password":"test123","number":"797807eqweqe3704"},"level":"info","timestamp":"2019-12-20T02:45:52.585Z"}
+{"success":0,"message":"Database connection errror","level":"info","timestamp":"2019-12-20T02:45:53.497Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:20:47.700Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:21:57.828Z"}
+{"success":0,"message":"Invalid Token...","level":"info","timestamp":"2019-12-20T03:21:57.838Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:22:03.977Z"}
+{"success":0,"message":"Invalid Token...","level":"info","timestamp":"2019-12-20T03:22:03.980Z"}
+{"message":{"email":"test2@gmail.com","password":"test123"},"level":"info","timestamp":"2019-12-20T03:22:13.200Z"}
+{"success":1,"message":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjEsImZpcnN0TmFtZSI6ImFiYyIsImxhc3ROYW1lIjoiYWJjIiwiZ2VuZGVyIjoibSIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwibnVtYmVyIjo3OTc4MDczNzA0fSwiaWF0IjoxNTc2ODEyMTMzLCJleHAiOjE1NzY4MTU3MzN9.BHqhEdgxvSo1riaVji8BGYKT2oAGRMYUC7Xau0lbzL4","level":"info","timestamp":"2019-12-20T03:22:13.805Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:22:29.017Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:24:23.899Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:24:55.602Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T03:25:26.714Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":"7978073704qwe"},"level":"info","timestamp":"2019-12-20T04:04:07.569Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T04:08:35.650Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T04:09:30.846Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"mq","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T04:10:21.140Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-20T04:10:45.052Z"}
+{"message":{"email":"test2@gmail.com","password":"test123"},"level":"info","timestamp":"2019-12-21T09:21:49.299Z"}
+{"success":1,"message":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjEsImZpcnN0TmFtZSI6ImFiYyIsImxhc3ROYW1lIjoiYWJjIiwiZ2VuZGVyIjoibSIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwibnVtYmVyIjo3OTc4MDczNzA0fSwiaWF0IjoxNTc2OTIwMTA5LCJleHAiOjE1NzY5MjM3MDl9.74DSSdm4KNEaQ-2CK0R_WrpSwGIGxiWI3w7lbDYHAjI","level":"info","timestamp":"2019-12-21T09:21:49.502Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T09:22:16.062Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T09:26:20.586Z"}
+{"success":1,"message":"\"","level":"info","timestamp":"2019-12-21T09:26:20.599Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T09:26:36.364Z"}
+{"success":0,"message":{"_original":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"details":[{"message":"\"gender\" must be one of [m, f, o]","path":["gender"],"type":"any.only","context":{"valids":["m","f","o"],"label":"gender","value":"q","key":"gender"}}]},"level":"info","timestamp":"2019-12-21T09:26:36.375Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T09:34:04.798Z"}
+{"success":0,"message":"\"gender\" must be one of [m, f, o]","level":"info","timestamp":"2019-12-21T09:34:04.808Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":797807370},"level":"info","timestamp":"2019-12-21T09:45:01.368Z"}
+{"success":0,"message":"\"gender\" must be one of [m, f, o]","level":"info","timestamp":"2019-12-21T09:45:01.380Z"}
+{"success":0,"message":"Database connection errror","level":"info","timestamp":"2019-12-21T09:45:01.653Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"m","email":"test2@gmail.com","password":"test123","number":797807370},"level":"info","timestamp":"2019-12-21T09:45:57.814Z"}
+{"success":0,"message":"\"number\" must be larger than or equal to 1000000000","level":"info","timestamp":"2019-12-21T09:45:57.837Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"m","email":"test2@gmail.com","password":"test123","number":79780737011},"level":"info","timestamp":"2019-12-21T09:46:16.209Z"}
+{"success":0,"message":"Invalid mubile number","level":"info","timestamp":"2019-12-21T09:46:16.211Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"m","email":"test2@gmail.com","password":"test123","number":79780737011},"level":"info","timestamp":"2019-12-21T09:46:30.931Z"}
+{"success":0,"message":"Invalid mubile number","level":"info","timestamp":"2019-12-21T09:46:30.945Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"y","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T12:54:09.141Z"}
+{"success":0,"message":"Invalid Token...","level":"info","timestamp":"2019-12-21T12:54:09.153Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"y","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T12:57:45.369Z"}
+{"success":0,"message":"Invalid Token...","level":"info","timestamp":"2019-12-21T12:57:45.373Z"}
+{"message":{"email":"test2@gmail.com","password":"test123"},"level":"info","timestamp":"2019-12-21T12:57:56.387Z"}
+{"success":1,"message":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXN1bHQiOnsiaWQiOjEsImZpcnN0TmFtZSI6ImFiYyIsImxhc3ROYW1lIjoiYWJjIiwiZ2VuZGVyIjoibSIsImVtYWlsIjoidGVzdDJAZ21haWwuY29tIiwibnVtYmVyIjo3OTc4MDczNzA0fSwiaWF0IjoxNTc2OTMzMDc2LCJleHAiOjE1NzY5MzY2NzZ9.G6k8BW8YjT2EdWfwCx_B2rY-CKZiCtTDtf-Pln7PMrw","level":"info","timestamp":"2019-12-21T12:57:56.795Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"y","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T12:58:13.438Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"y","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:00:03.704Z"}
+{"success":0,"message":"Database connection errror","level":"info","timestamp":"2019-12-21T13:00:04.235Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"y","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:00:48.930Z"}
+{"success":0,"message":"\"gender\" must be one of [m, f, o]","level":"info","timestamp":"2019-12-21T13:00:48.943Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:02:18.464Z"}
+{"success":0,"message":"\"gender\" must be one of [m, f, o]","level":"info","timestamp":"2019-12-21T13:02:18.470Z"}
+{"message":{"first_name":"","last_name":"test","gender":"q","email":"test2@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:02:28.327Z"}
+{"success":0,"message":"\"first_name\" is not allowed to be empty","level":"info","timestamp":"2019-12-21T13:02:28.329Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"m","email":"test2@gmail.com","password":"test123","number":79780737041},"level":"info","timestamp":"2019-12-21T13:02:44.641Z"}
+{"success":0,"message":"Invalid mobile number","level":"info","timestamp":"2019-12-21T13:02:44.650Z"}
+{"message":{"first_name":"test123","last_name":"test321","gender":"m","email":"test3@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:04:53.869Z"}
+{"success":0,"message":"Database connection errror","level":"info","timestamp":"2019-12-21T13:04:54.288Z"}
+{"message":{"first_name":"test","last_name":"test","gender":"m","email":"test2@gmail.com","password":"test123","number":79780737041},"level":"info","timestamp":"2019-12-21T13:06:02.530Z"}
+{"success":0,"message":"Invalid mobile number","level":"info","timestamp":"2019-12-21T13:06:02.547Z"}
+{"message":{"first_name":"test123","last_name":"test123","gender":"m","email":"test231@gmail.com","password":"test123","number":7978073704},"level":"info","timestamp":"2019-12-21T13:06:24.872Z"}
+{"message":{"success":1,"data":{"fieldCount":0,"affectedRows":1,"insertId":8,"serverStatus":2,"warningCount":0,"message":"","protocol41":true,"changedRows":0}},"level":"info","timestamp":"2019-12-21T13:06:25.161Z"}

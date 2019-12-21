@@ -1,5 +1,7 @@
 const router = require("express").Router();
-const { checkToken } = require("../../auth/token_validation");
+const {
+  checkToken
+} = require("../../auth/token_validation");
 const {
   createUser,
   login,
@@ -8,8 +10,12 @@ const {
   updateUsers,
   deleteUser
 } = require("./user.controller");
+const {
+  addUserValidation
+} = require('../../validation/users/user.validation');
+
 router.get("/", checkToken, getUsers);
-router.post("/", checkToken, createUser);
+router.post("/", checkToken, addUserValidation, createUser);
 router.get("/:id", checkToken, getUserByUserId);
 router.post("/login", login);
 router.patch("/", checkToken, updateUsers);
